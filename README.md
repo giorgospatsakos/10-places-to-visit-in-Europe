@@ -4,3 +4,7 @@ Budapest
 Zurich
 Luxembourg
 Warsaw
+Athens
+London
+Rome
+Venice
