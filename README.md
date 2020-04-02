@@ -9,3 +9,8 @@
 8. Rome
 9. Venice
 10. Stockholm
+#
+# +3 New Choices!
+* Paris
+* Marseille
+* Berlin
